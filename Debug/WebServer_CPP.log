@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\C++ Development\WebServer_CPP\main.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  mongoose.c
+D:\C++ Development\WebServer_CPP\mongoose.c(11210,35): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11222,41): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11223,43): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11234,42): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11238,39): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11283,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11322,44): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(11362,38): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\C++ Development\WebServer_CPP\mongoose.c(16444,32): warning C4273: 'rmdir': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\direct.h(116,26): message : see previous definition of 'rmdir'
+     Creating library D:\C++ Development\WebServer_CPP\Debug\WebServer_CPP.lib and object D:\C++ Development\WebServer_CPP\Debug\WebServer_CPP.exp
+  WebServer_CPP.vcxproj -> D:\C++ Development\WebServer_CPP\Debug\WebServer_CPP.exe

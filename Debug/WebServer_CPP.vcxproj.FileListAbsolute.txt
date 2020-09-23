@@ -1,0 +1,2 @@
+D:\C++ Development\WebServer_CPP\Debug\WebServer_CPP.exe
+D:\C++ Development\WebServer_CPP\Debug\WebServer_CPP.pdb
